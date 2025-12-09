@@ -1,0 +1,17 @@
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Infraestructure.deps.json
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Infraestructure.runtimeconfig.json
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Infraestructure.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Infraestructure.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Domain.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\bin\Debug\net8.0\Library.Domain.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.csproj.AssemblyReference.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.AssemblyInfoInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.AssemblyInfo.cs
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.csproj.CoreCompileInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library..6DCE6556.Up2Date
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\refint\Library.Infraestructure.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.genruntimeconfig.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\ref\Library.Infraestructure.dll

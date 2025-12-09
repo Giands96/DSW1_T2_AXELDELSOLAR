@@ -1,0 +1,5 @@
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net10.0\Library.Infraestructure.csproj.AssemblyReference.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net10.0\Library.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net10.0\Library.Infraestructure.AssemblyInfoInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net10.0\Library.Infraestructure.AssemblyInfo.cs
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net10.0\Library.Infraestructure.csproj.CoreCompileInputs.cache

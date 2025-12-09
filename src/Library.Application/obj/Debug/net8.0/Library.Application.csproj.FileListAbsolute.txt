@@ -1,0 +1,15 @@
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\bin\Debug\net8.0\Library.Application.deps.json
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\bin\Debug\net8.0\Library.Application.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\bin\Debug\net8.0\Library.Application.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\bin\Debug\net8.0\Library.Domain.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\bin\Debug\net8.0\Library.Domain.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.csproj.AssemblyReference.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfoInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfo.cs
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.csproj.CoreCompileInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library..D137A66B.Up2Date
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\refint\Library.Application.dll
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\Library.Application.pdb
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Application\obj\Debug\net8.0\ref\Library.Application.dll
