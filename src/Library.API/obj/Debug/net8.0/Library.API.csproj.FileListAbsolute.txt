@@ -100,6 +100,7 @@ D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\Library.API.csproj.CoreCompileInputs.cache
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\Library.API.MvcApplicationPartsAssemblyInfo.cs
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\Library.API.MvcApplicationPartsAssemblyInfo.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\Library.API.sourcelink.json
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

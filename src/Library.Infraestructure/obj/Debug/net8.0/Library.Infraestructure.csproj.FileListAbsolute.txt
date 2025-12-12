@@ -9,6 +9,7 @@ D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\D
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.AssemblyInfoInputs.cache
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.AssemblyInfo.cs
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.csproj.CoreCompileInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.sourcelink.json
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library..6DCE6556.Up2Date
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\Library.Infraestructure.dll
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Infraestructure\obj\Debug\net8.0\refint\Library.Infraestructure.dll

@@ -5,6 +5,7 @@ D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfoInputs.cache
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfo.cs
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.csproj.CoreCompileInputs.cache
+D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.sourcelink.json
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.dll
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\refint\Library.Domain.dll
 D:\examen-t2-dws-back\DSW1_T2_DelSolarLeonAXEL\src\Library.Domain\obj\Debug\net8.0\Library.Domain.pdb
